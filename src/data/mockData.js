@@ -1,4 +1,4 @@
-﻿export const initialTrips = [
+export const initialTrips = [
   {
     id: "TRV-2024-001",
     traveler: "Alfiya Khan",
